@@ -17,6 +17,16 @@ p {
   text-shadow: 0 0 1px black;
 }
 
+h1 {
+  font-size: 3.5em;
+}
+.img-border {
+  display: inline-block;
+  padding: 6px; /* border thickness */
+  border-radius: 12px;
+  background: linear-gradient(135deg, #3a7bd5, #00d2ff);
+}
+
 #bff-img {
   width: 250px;
 
